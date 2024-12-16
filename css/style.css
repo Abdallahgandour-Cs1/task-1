@@ -1,0 +1,24 @@
+body{
+    color: white;
+}
+.parent{
+    background-image: url(../image/TKcWzpXYQ3_20170518143103137.jpg);
+    padding: 20px;
+    width: 500px;
+    height: 600px;
+    margin: auto;
+}
+
+span{
+    color: red;
+}
+a{
+    
+    color: red;
+}
+h2{
+    padding-left: 10px;
+}
+li{
+    margin-bottom: 10px;
+}
